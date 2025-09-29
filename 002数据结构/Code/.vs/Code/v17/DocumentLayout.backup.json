@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DD46B39-712F-4EE7-8815-9028F04DDD71}|LinkList\\LinkList.vcxproj|C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\LinkList\\doublelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DD46B39-712F-4EE7-8815-9028F04DDD71}|LinkList\\LinkList.vcxproj|solutionrelative:LinkList\\doublelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD46B39-712F-4EE7-8815-9028F04DDD71}|LinkList\\LinkList.vcxproj|C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\LinkList\\singleList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DD46B39-712F-4EE7-8815-9028F04DDD71}|LinkList\\LinkList.vcxproj|solutionrelative:LinkList\\singleList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E76FEA3D-F820-40DB-8747-D9333AF837AC}|SeqList\\SeqList.vcxproj|C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\SeqList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E76FEA3D-F820-40DB-8747-D9333AF837AC}|SeqList\\SeqList.vcxproj|solutionrelative:SeqList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -55,12 +63,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "doublelist.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\LinkList\\doublelist.cpp",
+              "RelativeDocumentMoniker": "LinkList\\doublelist.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\LinkList\\doublelist.cpp",
+              "RelativeToolTip": "LinkList\\doublelist.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T08:12:17.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "singleList.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\LinkList\\singleList.cpp",
+              "RelativeDocumentMoniker": "LinkList\\singleList.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\LinkList\\singleList.cpp",
+              "RelativeToolTip": "LinkList\\singleList.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T06:34:48.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\SeqList\\main.cpp",
               "RelativeDocumentMoniker": "SeqList\\main.cpp",
               "ToolTip": "C:\\Users\\admin\\Desktop\\KYNote\\002\u6570\u636E\u7ED3\u6784\\Code\\SeqList\\main.cpp",
               "RelativeToolTip": "SeqList\\main.cpp",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-26T13:45:09.392Z",
               "EditorCaption": ""
