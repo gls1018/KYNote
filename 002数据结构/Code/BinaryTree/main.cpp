@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <vector>
 #define ElemType int
 
 typedef struct BiTNode
@@ -21,6 +21,31 @@ void PreOrder(BiTree T)
 	PreOrder(T->lchild);
 	PreOrder(T->rchild);
 }
+
+
+
+
+
+void LevelOrder(BiTree T)
+{
+
+}
+
+
+
+
+
+
+
+typedef struct ThreadNode {
+	ElemType data;
+	struct ThreadNode* lchild;
+	struct ThreadNode* rchild;
+	int ltag;
+	int rtag;
+};
+
+
 
 int main()
 {
