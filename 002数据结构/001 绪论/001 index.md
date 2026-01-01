@@ -153,6 +153,7 @@ for(int i=0; i<n; i++)
 时间复杂度$O(n) * O(n) = O(n^2)$
 
 严格计算如下:
+
 $$
 \sum_{i=0}^{n-1}\sum_{j=0}^{i-1} 1= \sum_{i=0}^{n-1}i = \frac{n(n-1)}{2} = O(n^2)
 $$
@@ -171,6 +172,7 @@ for(int i=0; i*i<=n; i++)
 时间复杂度$O(n)$
 
 严格计算如下:
+
 $$
 \sum_{i=0}^{\sqrt{n}} \sum_{j=0}^{i}1 = \sum_{i=0}^{\sqrt{n}}i = \frac{\sqrt{n}*(0+\sqrt{n})}{2} = O(n)
 $$
