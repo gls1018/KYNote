@@ -31,7 +31,7 @@
 
 等差数列求和公式
 $$
-S_n = \frac{n}{2} * (a_1 + a_n)
+S_n = \frac{n * (a_1 + a_n)}{2}
 $$
 等比数列求和公式
 
@@ -174,7 +174,6 @@ for(int i=0; i*i<=n; i++)
 $$
 \sum_{i=0}^{\sqrt{n}} \sum_{j=0}^{i}1 = \sum_{i=0}^{\sqrt{n}}i = \frac{\sqrt{n}*(0+\sqrt{n})}{2} = O(n)
 $$
-
 
 
 
