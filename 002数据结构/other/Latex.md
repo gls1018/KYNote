@@ -125,6 +125,20 @@ $$
 
 - 下标 $S_n$  S_n
 
+- 排列组合  C_n^k  :  $C_n^k$
+
+- 
+
+- 向上取整和向下取整
+
+  - \lfloor abc \rfloor : 向下取整 $\lfloor abc \rfloor$
+  
+  
+  
+  - \lceil abc \rceil :  向上取整  $\lceil abc \rceil$  
+  
+- 
+
   
 
 
